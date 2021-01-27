@@ -46,6 +46,7 @@ It will then look like this:
  }
 ]
 ```
+Forked [this](https://vizhub.com/davidvanr21/34cda181027f47e2a41213d13efd22b8?edit=files&file=index.js) d3 code on Vizhub from [Jordy S](https://vizhub.com/sahitj001), cause I also need a vertical bar chart with filter option. But these value are already given by in the ```.json``` file. Because I want the prices of the cars, I need a codeline that sums up the length of values and add that specific number to the chart. Therefore I will need different kind of coding. Also the d3 worked when I putted my work on a localhost, but when I opened the files local in my browser, there was nothing visible.
 
 ## Research & Iterations
 
