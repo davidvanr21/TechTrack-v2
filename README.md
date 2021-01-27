@@ -3,11 +3,11 @@ Additions to the 2020 Tech-Track.
 
 ## Table of content
 - [Install](#install)
-- Final concept
+- [Final concept](#final-concept)
   - Prototype
   - Proces 
   - Code
-- Credits & License
+- [Credits & License](#credits-&-license)
 
 # Install
 Within 3 steps you can use my project and dive into the codelines.
