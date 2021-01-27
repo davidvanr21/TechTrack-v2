@@ -7,7 +7,7 @@ Additions to the 2020 Tech-Track.
   - Prototype
   - Proces 
   - Code
-- [Credits & License](#credits-&-license)
+- [Credits & License](#credits--license)
 
 # Install
 Within 3 steps you can use my project and dive into the codelines.
