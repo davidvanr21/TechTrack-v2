@@ -1,0 +1,52 @@
+[
+   {
+      "description":"P+R Station Appingedam (Appingedam)",
+      "capacity":22,
+      "usage":"Park & Ride"
+   },
+   {
+      "description":"P+R Station Bedum (Bedum)",
+      "capacity":28,
+      "usage":"Park & Ride"
+   },
+   {
+      "description":"Straatparkeren Commandementsplein (Delfzijl)",
+      "capacity":null,
+      "usage":"Betaald Parkeren"
+   },
+   {
+      "description":"Carpool Bedum (Bedum)",
+      "capacity":20,
+      "usage":"Carpoolparkeren"
+   },
+   {
+      "description":"Straatparkeren Spoorstraat (Delfzijl)",
+      "capacity":null,
+      "usage":"Betaald Parkeren"
+   },
+   {
+      "description":"Straatparkeren Johan van den Kornputplein (Delfzijl)",
+      "capacity":null,
+      "usage":"Betaald Parkeren"
+   },
+   {
+      "description":"Straatparkeren Oude Schans (Delfzijl)",
+      "capacity":null,
+      "usage":"Betaald Parkeren"
+   },
+   {
+      "description":"Straatparkeren Plein de Molenberg (Delfzijl)",
+      "capacity":null,
+      "usage":"Betaald Parkeren"
+   },
+   {
+      "description":"Carpool Fivellaan (Delfzijl)",
+      "capacity":18,
+      "usage":"Carpoolparkeren"
+   },
+   {
+      "description":"Straatparkeren Marktstraat (Delfzijl)",
+      "capacity":null,
+      "usage":"Betaald Parkeren"
+   }
+]
